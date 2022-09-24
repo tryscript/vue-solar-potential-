@@ -15,7 +15,7 @@
 <input v-model="SolarUnit">
 <br>
 <br>
- <p>var3 - effiency per unit in Watts <b>{{effiencyUnit}}</b></p>
+ <p>var3 -efficiency per unit in Watts <b>{{effiencyUnit}}</b></p>
 <input v-model="effiencyUnit">
 <br>
 <br>
