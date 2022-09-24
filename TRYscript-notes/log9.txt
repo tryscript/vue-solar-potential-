@@ -1,0 +1,17 @@
+
+Log 9.txt external files 
+
+log 9 - 4/7 part 3 [2.25] hours used #shortcut to render more quickly with #compromise of image quality,
+
+
+
+
+To improve image Quality and interactivity with original Three Js code,
+ we would have to rewrite the code to create better 3D representation of sunlight on each demo panel,  but for browsing purposes our gif shortcut should be okay,
+ here is a point in our work where one critical technical decision could create significant delays , 
+
+Additional notes 
+1-The panel itself *should*  show 300 squares , but we only created the first 20 , 
+2- our project Measure Solar Potential,can be approached either from residential consumer perspective or a producer / engineer, if this was made for producers they will likely want even accurate and technical display that mimic sunlight at each panel , the google https://sunroof.withgoogle.com/data-explorer/ , only show approximate number of hours of sunlight if we wanted  our project to work with live API data monitoring system and connect IOT api like  https://docs.blynk.io/en/, then that would take the project on completely different direction , and the “potential” of sunlight calculations will be verified with live system.
+
+We are for now focusing on the consumer view of speculating on the number of solar panels and the space that they need before they obtain the panels, so our visual shortcut is okay.
