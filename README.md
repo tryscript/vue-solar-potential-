@@ -1,7 +1,9 @@
 
 
-# Vue solar Potential made with TRYscript system 
-# see TRYscript.json file for time log data 
+# Vue solar Potential made with TRYscript.io system 
+see TRYscript.json file for time log data 
+
+sign up for the app and system release here https://waitlist.time-ry.io/
 
 # install instructions 
 
